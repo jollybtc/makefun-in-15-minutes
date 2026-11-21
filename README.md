@@ -26,6 +26,7 @@ This guide is deliberately short. Follow it in order, and by the end you will ha
 - [7. Claim your reward](#7-claim-your-reward)
 - [Let your agent run the whole loop](#let-your-agent-run-the-whole-loop)
 - [Your first hour after submitting](#your-first-hour-after-submitting)
+- [Before you submit — a 60-second checklist](#before-you-submit--a-60-second-checklist)
 - [What can go wrong](#what-can-go-wrong)
 - [Earn with your own referral link](#earn-with-your-own-referral-link)
 - [Questions](#questions)
@@ -198,6 +199,16 @@ Submitting is not the end of the 15 minutes — it is the start of the hour that
 - **Minute 40–60:** share your referral link once, somewhere real people who build things actually are — a group chat, a forum thread, a post about what you just built. One honest share beats ten copied ones, and only real signups that take part ever count.
 
 Keep a note of what worked: which bounty type, which agent, how long the build really took. That note is your playbook for the next bounty.
+
+## Before you submit — a 60-second checklist
+
+- [ ] I can state the bounty task in one sentence
+- [ ] The kit's `RULES.txt` says what an entry must contain, and mine contains it
+- [ ] My repository is public, licensed, and owned by the GitHub account linked to my make.fun account
+- [ ] The transcripts were bundled and the kit's checks pass on my machine
+- [ ] I submitted with at least 15 minutes to spare, so a fix is still possible
+
+If any box is unchecked, fix that one thing before you submit. A checklist you actually use beats a perfect entry you never send.
 
 ## What can go wrong
 
